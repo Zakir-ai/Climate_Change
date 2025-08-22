@@ -4,7 +4,6 @@
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
 ![scikit--learn](https://img.shields.io/badge/ML-scikit--learn-green)
 ![NLP](https://img.shields.io/badge/NLP-TextBlob%20%7C%20NLTK-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-informational)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -158,6 +157,5 @@ You may export these as `.png` into `images/` and embed them in this README if d
 - Open-source libraries: pandas, NLTK, TextBlob, scikit-learn, matplotlib, seaborn, wordcloud.  
 - Data fields and structure inspired by public climate conversation datasets.  
 
-## License
-This project is released under the MIT License. See LICENSE if included; otherwise you may add one using a standard MIT template.
+
 
