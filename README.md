@@ -84,8 +84,8 @@ These results establish a transparent reference point for future model improveme
 ## Setup & Usage
 1. **Clone**
    ```bash
-   git clone https://github.com/your-username/climate-sentiment-nasa.git
-   cd climate-sentiment-nasa
+   git clone https://github.com/Zakir-ai/Climate_Change.git
+   cd Climate_Change
    ```
 
 2. **Create environment (recommended)**
