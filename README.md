@@ -1,9 +1,13 @@
 # Climate Change Sentiment Analysis (NASA Climate Conversation)
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![scikit--learn](https://img.shields.io/badge/ML-scikit--learn-green)
-![NLP](https://img.shields.io/badge/NLP-TextBlob%20%7C%20NLTK-lightgrey)
+### **Technologies & Official Links**
+- 🐍 **Python (3.9+)** → [Download Python](https://www.python.org/downloads/)
+- 📓 **Jupyter Notebook** → [Install Jupyter](https://jupyter.org/install)
+- 📘 **scikit-learn** → [scikit-learn Documentation](https://scikit-learn.org/stable/)
+- 🔍 **NLP Libraries**:  
+    - [TextBlob](https://textblob.readthedocs.io/en/dev/)  
+    - [NLTK](https://www.nltk.org/)  
+
 
 ## Table of Contents
 - [Overview](#overview)
